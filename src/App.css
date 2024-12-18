@@ -1,0 +1,85 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #FFF5D7; 
+  color: #000000; 
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+h1, h2 {
+  color: #000000;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+ul, ol {
+  list-style-type: none; 
+  padding: 0;
+}
+
+a {
+  color: #f1f1f1;
+  text-decoration: none;
+}
+
+.container-info{
+  width: 670px;
+  height: 150px;
+  border: 1px solid #ddd; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #fcfaf3; 
+  margin: 10px;
+  text-align: center;
+}
+
+
+.mySelf{
+  width: 250px;
+  height: 250px;
+}
+
+.app-container {
+  padding: 50px;
+  justify-items: center;
+}
+
+.gallery{
+  display: flex;
+}
+
+.gallery-item {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #ddd; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  background-color: #fcfaf3; 
+  margin: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.gallery-item:hover {
+  transform: translateY(-10px); 
+}
+
+.gallery-item img {
+  margin-top: 5px;
+  width: 100px; 
+  height: 100px;
+  object-fit: cover;
+}
+
+
+.gallery-item p {
+  margin: 10px 0;
+  font-size: 1.1em; 
+  font-weight:bold; 
+  color: #333; 
+}
+
+
+
+
