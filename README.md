@@ -1,4 +1,10 @@
 # React + Vite
 
 [My page]
-![image](https://github.com/user-attachments/assets/de0fd974-298a-44a0-8148-5ec061f83d1d)
+
+
+![image](https://github.com/user-attachments/assets/17204611-1e3d-4845-9edc-be329bf98c5a)
+![image](https://github.com/user-attachments/assets/8ad4278a-83b2-4714-bf59-295492cf26e5)
+![image](https://github.com/user-attachments/assets/e5935b12-2e65-4ffd-b8c2-4f69990fe62f)
+
+
